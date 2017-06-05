@@ -1,0 +1,13 @@
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\bin\Release\MissionControl.exe.config
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\bin\Release\MissionControl.exe
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\bin\Release\MissionControl.pdb
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\MainWindow.g.cs
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\App.g.cs
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\MissionControl_MarkupCompile.cache
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\MissionControl_MarkupCompile.lref
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\MainWindow.baml
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\MissionControl.g.resources
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\MissionControl.Properties.Resources.resources
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\MissionControl.csproj.GenerateResource.Cache
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\MissionControl.exe
+C:\Users\paula\Documents\Rocketry\GUI\MissionControl\MissionControl\obj\Release\MissionControl.pdb
